@@ -1,7 +1,7 @@
 # Music-Recommendation-System-
 Recommending the songs according to word provided.
-*Run App*
+## Run App
 `streamlit run app.py`
-
+## Screenshot
 <img src="music_r.png" >
 
